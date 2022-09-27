@@ -30,8 +30,8 @@ Example: 505 is NOT EXACTLY 50 % from 1000, its 50.5 %.
 	On the third line, you will receive Y – an integer.
 
 ## Output
-The output consists of 2 lines.
-On the first line print what has remained of N, after subtracting from it.
-On the second line print the count of targets, you’ve managed to poke.
+       The output consists of 2 lines.
+       On the first line print what has remained of N, after subtracting from it.
+       On the second line print the count of targets, you’ve managed to poke.
 
 ![image](https://user-images.githubusercontent.com/45227327/192560377-7725b12b-3329-45f5-b0d4-32d088a83fc4.png)
