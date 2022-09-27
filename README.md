@@ -24,10 +24,10 @@ NOTE: When you are calculating percentages, you should be PRECISE at maximum.
 Example: 505 is NOT EXACTLY 50 % from 1000, its 50.5 %.
 
 ## Input
-•	The input consists of 3 lines.
-•	On the first line, you will receive N – an integer.
-•	On the second line, you will receive M – an integer.
-•	On the third line, you will receive Y – an integer.
+	The input consists of 3 lines.
+	On the first line, you will receive N – an integer.
+	On the second line, you will receive M – an integer.
+	On the third line, you will receive Y – an integer.
 
 ## Output
 •	The output consists of 2 lines.
