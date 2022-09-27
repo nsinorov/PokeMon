@@ -1,4 +1,4 @@
-##PokeMon
+## PokeMon
 
 A Pokemon is a special type of pokemon which likes to Poke others. But at the end of the day, the Pokemon wants to keep statistics, about how many pokes it has managed to make.
 
