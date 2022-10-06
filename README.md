@@ -4,7 +4,7 @@ A Pokemon is a special type of pokemon which likes to Poke others. But at the en
 
 The Pokemon pokes his target and then proceeds to poke another target. The distance between his targets reduces his poke power.
 
-You will be given the poke power the Pokemon has, N – an integer.
+You will be given the **poke power** the Pokemon has, N – an integer.
 
 Then you will be given the distance between the poke targets, M – an integer.
 
