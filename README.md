@@ -6,7 +6,7 @@ The Pokemon pokes his target and then proceeds to poke another target. The dista
 
 You will be given the **poke power** the Pokemon has, N – an integer.
 
-Then you will be given the distance between the poke targets, M – an integer.
+Then you will be given the **distance between the poke targets**, M – an integer.
 
 Then you will be given the exhaustionFactor Y – an integer. 
 
